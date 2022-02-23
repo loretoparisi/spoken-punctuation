@@ -1,0 +1,33 @@
+Language	Punctuation symbol	Spoken forms
+sv_se	⏎	ny rad radbrytning
+sv_se	⏎⏎	blankrad ny paragraf nytt avsnitt nytt stycke stycketecken
+sv_se	!	utropstecken
+sv_se	"	citat slut citat start citationstecken citationstecken slut citationstecken start citattecken citattecken slut citattecken start dubbelfnuttar dubbelfnuttar slut dubbelfnuttar start quote slut citat slut citationstecken slut citattecken slut dubbelfnuttar start citat start citationstecken start citattecken start dubbelfnuttar
+sv_se	#	brädgård hashmark hashtag nummertecken
+sv_se	&	ampersand et tecken et-tecken och tecken och-tecken
+sv_se		apostrof börja enkla citationstecken enkelt citationstecken enkelt citationstecken slut enkelt citationstecken start enkla citationstecken enkla citationstecken slut enkla citationstecken start höger enkelt citationstecken höger enkla citationstecken slut enkelt citationstecken slut enkla citationstecken sluta enkla citationstecken start enkelt citationstecken start enkla citationstecken vänster enkelt citationstecken vänster enkla citationstecken
+sv_se	(	bågparentes bågparentes start parentes parentes start rundparentes rundparentes start start bågparentes start parentes start rundparentes vänster bågparentes vänster parentes vänster rundparentes
+sv_se	)	bågparentes bågparentes slut höger bågparentes höger parentes höger rundparentes parentes parentes slut rundparentes rundparentes slut slut bågparentes slut parentes slut rundparentes
+sv_se	*	asterisk
+sv_se	,	komma kommatecken
+sv_se	-	bindestreck
+sv_se	.	punkt
+sv_se	...	dot dot dot ellips punkt punkt punkt tre punkter uteslutningstecken
+sv_se	/	slash snedstreck
+sv_se	:	kolon
+sv_se	;	semikolon
+sv_se	?	frågetecken
+sv_se	@	kringel a kringel-a snabel a snabel-a
+sv_se	[	hakparentes hakparentes start hård parentes hård parentes start start hakparentes start hård parentes vänster hakparentes vänster hård parentes
+sv_se	\	backslash bakvänt snedstreck omvänt snedstreck
+sv_se	]	hakparentes hakparentes slut hård parentes hård parentes slut höger hakparentes höger hård parentes slut hakparentes slut hård parentes
+sv_se	_	underscore understreck
+sv_se	{	klammerparentes klammerparentes start krullparentes krullparentes start måsvinge måsvinge start spetsparentes spetsparentes start start klammerparentes start krullparentes start måsvinge start spetsparentes vänster klammerparentes vänster krullparentes vänster måsvinge vänster spetsparentes
+sv_se	|	lodrätt streck lodstreck vertical bar vertikalis vertikalstreck
+sv_se	}	höger klammerparentes höger krullparentes höger måsvinge höger spetsparentes klammerparentes klammerparentes slut krullparentes krullparentes slut måsvinge måsvinge slut slut klammerparentes slut krullparentes slut måsvinge slut spetsparentes spetsparentes spetsparentes slut
+sv_se	~	tilde tildeoperator
+sv_se	«	gåsögon gåsögon slut höger gåsögon höger vinkelcitationstecken höger vinkelcitattecken slut gåsögon slut vinkelcitationstecken slut vinkelcitattecken vinkelcitationstecken vinkelcitationstecken slut vinkelcitattecken vinkelcitattecken slut
+sv_se	»	gåsögon gåsögon start start gåsögon start vinkelcitationstecken start vinkelcitattecken vinkelcitationstecken vinkelcitationstecken start vinkelcitattecken vinkelcitattecken start vänster gåsögon vänster vinkelcitationstecken vänster vinkelcitattecken
+sv_se	–	pratminus talstreck tankestreck tankstreck
+sv_se	〈	start vinkelparentes vinkelparentes vinkelparentes start vänster vinkelparentes
+sv_se	〉	höger vinkelparentes slut vinkelparentes vinkelparentes vinkelparentes slut

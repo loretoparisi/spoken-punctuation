@@ -1,0 +1,27 @@
+Language	Punctuation symbol	Spoken forms
+tr_tr	⏎	satır başı yeni satır
+tr_tr	⏎⏎	paragraf başı yeni paragraf
+tr_tr	!	ünlem ünlem işareti
+tr_tr	"	denden tırnak işareti çift tırnak çift tırnak başlangıcı çift tırnak bitişi çift tırnak işareti
+tr_tr	#	diyez diyez işareti haştag heşteg kare tuşu
+tr_tr	&	ampersand ve işareti
+tr_tr		kesme işareti tek tırnak tek tırnak başlangıcı tek tırnak bitişi tek tırnak işareti
+tr_tr	(	aç parantez parantez aç parantez açma
+tr_tr	)	kapa parantez kapat parantez parantez kapa parantez kapama parantez kapat parantez kapatma
+tr_tr	*	asterisk yıldız işareti
+tr_tr	,	virgül
+tr_tr	-	kısa çizgi tire
+tr_tr	.	nokta
+tr_tr	...	üç nokta
+tr_tr	/	bölü eğik çizgi öne eğik çizgi
+tr_tr	:	iki nokta iki nokta üst üste
+tr_tr	;	noktalı virgül
+tr_tr	?	soru işareti
+tr_tr	@	at işareti et işareti kuyruklu a
+tr_tr	[	köşeli ayraç aç köşeli ayraç açma köşeli parantez aç köşeli parantez açma
+tr_tr	\	ters bölü ters eğik çizgi
+tr_tr	]	köşeli ayraç kapa köşeli ayraç kapama köşeli parantez kapa köşeli parantez kapama
+tr_tr	_	alt çizgi
+tr_tr	{	büyük parantez aç büyük parantez açma kaşlı ayraç aç kaşlı ayraç açma küme parantezi aç küme parantezi açma süslü parantez aç süslü parantez açma
+tr_tr	}	büyük parantez kapa büyük parantez kapama kaşlı ayraç kapa kaşlı ayraç kapama küme parantezi kapa küme parantezi kapama süslü parantez kapa süslü parantez kapama
+tr_tr	—	uzun çizgi
